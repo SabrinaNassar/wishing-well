@@ -10,6 +10,13 @@
   color: white;
 }
 
+.list {
+  text-align: left;
+}
+
+.author{
+  font-style: italic;
+}
 
 .more {
   background: green;
